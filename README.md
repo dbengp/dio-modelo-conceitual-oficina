@@ -3,7 +3,7 @@
   - O sistema tem como objetivo otimizar o fluxo de trabalho, desde o momento em que o cliente leva o veículo para revisão ou conserto, passando pela identificação dos serviços, orçamento, execução e finalização da OS. A implementação de um sistema como este busca melhorar a organização da oficina, facilitar o acompanhamento do status dos serviços, agilizar a comunicação com os clientes e permitir um controle financeiro mais eficiente.
 
 ### Descrição do Projeto Lógico:
-  - O script SQL <> cria o modelo lógico do sistema de controle e gerenciamento de ordens de serviço para uma oficina mecânica no MySQL, refletindo o modelo conceitual fornecido:
+  - O script SQL <https://github.com/dbengp/dio-modelo-conceitual-oficina/blob/658ebf55aaa64b7cdf97a96aa66ace9bc34ff9d9/modelo-logico/bd_oficina_mecanica.sql> cria o modelo lógico do sistema de controle e gerenciamento de ordens de serviço para uma oficina mecânica no MySQL, refletindo o modelo conceitual fornecido:
 
 ### SGBD Escolhido: 
   - MySQL foi utilizado neste script, diferente do PostgreSQL usado no projeto anterior.
